@@ -33,9 +33,11 @@ I am a dedicated software enthusiast focused on becoming a **Full Stack & Backen
 
 ### 🏗️ Featured Projects (Built & Maintained) <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
-- **🏦 Banking System (OOP):** A robust application built with OOP principles. I continuously maintain the code and implement new features.
-- **🏧 ATM System:** A simulation of real-world ATM operations, featuring secure login and transaction handling.
-- **🛠️ Project Maintenance:** I enjoy revisiting my projects to apply "Clean Code" standards and optimize existing features.
+*I focus on continuous improvement, adding new features, and maintaining high-quality code:*
+
+- **🏦 Banking System (OOP):** A robust application built with OOP principles. I continuously maintain the code and implement new features to enhance its business logic.
+- **🏧 ATM System:** A simulation of real-world ATM operations, featuring secure login and transaction handling, refactored for better performance.
+- **🛠️ Project Maintenance:** I enjoy revisiting my projects to apply "Clean Code" standards and optimize existing features as I learn more.
 
 ---
 
@@ -47,35 +49,30 @@ I am a dedicated software enthusiast focused on becoming a **Full Stack & Backen
 
 ---
 
-### 🎯 Currently Working On
-- **Abu-Hadhoud Roadmap** | **Mastering C++, C# & OOP** 💡 | **Algorithms & Data Structures**
+### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+- **Abu-Hadhoud Roadmap** (Professional Path)
+- **Mastering C++, C# & OOP** 💡
+- **Algorithms, Data Structures & Database Design**
+- **Refining Project Architectures** 🛠️
+- **Building a professional presence on GitHub and LinkedIn**
 
 ---
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
 </div>
 
 ---
 
-### 📬 Contact Information 📱
-<div align="center">
-  <a href="رابط_لينكد_إن">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201XXXXXXXXX">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
+```cpp
+// Bridging BIS with Software Engineering
+class AhmedHesham {
+public:
+  string degree   = "BIS - Helwan University 2025";
+  string goal     = "Full Stack & Backend Engineer";
+  string mindset  = "Continuous Refactoring & Feature Building";
+  
+  void message() { 
+      cout << "Building robust systems, one line of clean code at a time! 🚀"; 
+  }
+};
